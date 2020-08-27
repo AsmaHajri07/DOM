@@ -1,0 +1,27 @@
+.navbar-light .navbar-brand {
+  font-size: 30px;
+}
+
+.carousel-item {
+  width: 50%;
+  float: left;
+  margin: 0 25%;
+}
+
+.flexy {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button-primary {
+  background-image: url("https://fontawesome.com/icons/heart?style=regular");
+}
+
+.box {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.fa-heart {
+  color: red;
+}
